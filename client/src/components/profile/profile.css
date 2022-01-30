@@ -1,0 +1,19 @@
+body{
+    overflow-x: hidden;
+}
+.bigestContainer{
+    display: flex;
+    width: 100vw;
+}
+.motherContainer{
+    display: flex;
+    height: 100vh;
+    margin-top: 10px;
+    float: left;
+    position: fixed;
+}
+.posts{
+    margin-left: 550px;
+    margin-top: 5px;
+    width: 100%;
+}
